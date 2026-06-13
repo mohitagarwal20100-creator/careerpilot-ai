@@ -1,0 +1,82 @@
+{
+  "programming_languages": [
+    "python", "java", "javascript", "typescript", "c", "c++", "c#", "go", "golang",
+    "rust", "kotlin", "swift", "ruby", "php", "scala", "r", "matlab", "perl",
+    "haskell", "lua", "dart", "julia", "elixir", "clojure", "groovy", "bash",
+    "shell", "powershell", "vba", "assembly", "fortran", "cobol"
+  ],
+  "data_science": [
+    "pandas", "numpy", "matplotlib", "seaborn", "plotly", "scipy", "statsmodels",
+    "jupyter", "data analysis", "data visualization", "data wrangling", "feature engineering",
+    "exploratory data analysis", "eda", "hypothesis testing", "a/b testing",
+    "time series", "forecasting", "regression", "classification", "clustering",
+    "dimensionality reduction", "pca", "statistics", "probability"
+  ],
+  "ai_ml": [
+    "machine learning", "deep learning", "neural networks", "tensorflow", "pytorch",
+    "keras", "scikit-learn", "sklearn", "xgboost", "lightgbm", "catboost",
+    "random forest", "gradient boosting", "svm", "support vector machine",
+    "natural language processing", "nlp", "computer vision", "cv",
+    "convolutional neural network", "cnn", "recurrent neural network", "rnn",
+    "lstm", "transformer", "bert", "gpt", "generative ai", "reinforcement learning",
+    "transfer learning", "object detection", "image segmentation", "yolo",
+    "hugging face", "openai", "langchain", "llm", "rag", "vector database",
+    "model deployment", "mlflow", "weights and biases", "wandb"
+  ],
+  "web_development": [
+    "html", "css", "javascript", "react", "reactjs", "react.js", "angular",
+    "angularjs", "vue", "vuejs", "vue.js", "node", "nodejs", "node.js",
+    "express", "expressjs", "django", "flask", "fastapi", "spring", "spring boot",
+    "asp.net", "laravel", "rails", "ruby on rails", "next.js", "nextjs",
+    "nuxt.js", "gatsby", "graphql", "rest", "restful", "api", "rest api",
+    "websocket", "bootstrap", "tailwind", "tailwindcss", "sass", "scss",
+    "webpack", "vite", "typescript", "jquery", "redux", "mobx", "zustand"
+  ],
+  "cloud": [
+    "aws", "amazon web services", "azure", "microsoft azure", "gcp",
+    "google cloud", "google cloud platform", "ec2", "s3", "lambda",
+    "cloudformation", "terraform", "pulumi", "heroku", "vercel", "netlify",
+    "firebase", "supabase", "cloud computing", "serverless", "faas",
+    "cloud storage", "cdn", "cloudfront", "load balancer", "auto scaling",
+    "iam", "vpc", "eks", "ecs", "fargate", "azure devops", "azure functions"
+  ],
+  "devops": [
+    "docker", "kubernetes", "k8s", "jenkins", "gitlab ci", "github actions",
+    "circleci", "travis ci", "ansible", "puppet", "chef", "helm", "istio",
+    "nginx", "apache", "linux", "unix", "bash", "shell scripting", "ci/cd",
+    "continuous integration", "continuous deployment", "infrastructure as code",
+    "iac", "monitoring", "prometheus", "grafana", "elk stack", "elasticsearch",
+    "logstash", "kibana", "datadog", "new relic", "argocd", "flux"
+  ],
+  "databases": [
+    "sql", "mysql", "postgresql", "postgres", "sqlite", "oracle", "sql server",
+    "mssql", "mongodb", "redis", "cassandra", "dynamodb", "elasticsearch",
+    "neo4j", "influxdb", "couchdb", "firebase", "supabase", "database design",
+    "orm", "sqlalchemy", "prisma", "sequelize", "query optimization",
+    "indexing", "transactions", "acid", "nosql", "graph database"
+  ],
+  "tools": [
+    "git", "github", "gitlab", "bitbucket", "jira", "confluence", "trello",
+    "slack", "postman", "insomnia", "swagger", "openapi", "figma", "sketch",
+    "adobe xd", "vs code", "visual studio", "intellij", "pycharm", "vim",
+    "emacs", "linux", "macos", "windows", "agile", "scrum", "kanban",
+    "tdd", "test driven development", "unit testing", "integration testing",
+    "pytest", "jest", "selenium", "cypress", "sonarqube", "sentry"
+  ],
+  "android_development": [
+    "android", "android studio", "kotlin", "java", "android sdk", "jetpack",
+    "jetpack compose", "xml layouts", "retrofit", "room", "livadata",
+    "viewmodel", "mvvm", "mvp", "firebase", "google play", "material design",
+    "fragments", "activities", "intents", "broadcast receiver", "content provider",
+    "coroutines", "rx java", "rxjava", "dagger", "hilt", "gradle"
+  ],
+  "cybersecurity": [
+    "penetration testing", "pen testing", "ethical hacking", "network security",
+    "application security", "appsec", "owasp", "vulnerability assessment",
+    "threat modeling", "siem", "soc", "incident response", "digital forensics",
+    "cryptography", "pki", "ssl", "tls", "firewall", "ids", "ips",
+    "metasploit", "burp suite", "nmap", "wireshark", "kali linux",
+    "security audit", "compliance", "gdpr", "iso 27001", "cissp", "ceh",
+    "zero trust", "iam", "privileged access management", "pam"
+  ]
+}

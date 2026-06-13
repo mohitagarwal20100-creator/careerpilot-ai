@@ -1,0 +1,99 @@
+{
+  "Data Scientist": {
+    "required": [
+      "python", "pandas", "numpy", "scikit-learn", "machine learning",
+      "statistics", "data visualization", "sql", "feature engineering",
+      "exploratory data analysis"
+    ],
+    "preferred": [
+      "tensorflow", "pytorch", "deep learning", "spark", "hadoop",
+      "tableau", "power bi", "r", "a/b testing", "docker"
+    ],
+    "description": "Analyzes complex data to extract insights and build predictive models.",
+    "avg_salary": "₹12-25 LPA"
+  },
+  "ML Engineer": {
+    "required": [
+      "python", "machine learning", "tensorflow", "pytorch", "scikit-learn",
+      "docker", "kubernetes", "mlflow", "model deployment", "api"
+    ],
+    "preferred": [
+      "aws", "gcp", "azure", "spark", "kafka", "fastapi", "nvidia cuda",
+      "triton", "onnx", "feature store", "data pipeline"
+    ],
+    "description": "Builds and deploys production machine learning systems.",
+    "avg_salary": "₹15-35 LPA"
+  },
+  "AI Engineer": {
+    "required": [
+      "python", "deep learning", "nlp", "computer vision", "pytorch",
+      "tensorflow", "hugging face", "transformer", "api", "docker"
+    ],
+    "preferred": [
+      "llm", "rag", "vector database", "langchain", "aws", "fastapi",
+      "kubernetes", "cuda", "mlops", "reinforcement learning"
+    ],
+    "description": "Designs and implements AI systems and intelligent applications.",
+    "avg_salary": "₹18-40 LPA"
+  },
+  "Data Analyst": {
+    "required": [
+      "sql", "python", "excel", "data visualization", "pandas", "statistics",
+      "tableau", "power bi", "exploratory data analysis", "reporting"
+    ],
+    "preferred": [
+      "numpy", "matplotlib", "seaborn", "google analytics", "r",
+      "a/b testing", "dashboard", "google sheets", "looker"
+    ],
+    "description": "Transforms raw data into actionable business insights.",
+    "avg_salary": "₹6-15 LPA"
+  },
+  "Web Developer": {
+    "required": [
+      "html", "css", "javascript", "react", "node.js", "sql", "git",
+      "rest api", "responsive design", "version control"
+    ],
+    "preferred": [
+      "typescript", "next.js", "tailwindcss", "mongodb", "docker",
+      "aws", "graphql", "redux", "testing", "ci/cd"
+    ],
+    "description": "Builds and maintains web applications and services.",
+    "avg_salary": "₹6-20 LPA"
+  },
+  "DevOps Engineer": {
+    "required": [
+      "linux", "docker", "kubernetes", "jenkins", "github actions", "ci/cd",
+      "terraform", "ansible", "aws", "monitoring", "bash"
+    ],
+    "preferred": [
+      "prometheus", "grafana", "elk stack", "helm", "argocd", "istio",
+      "python", "go", "azure devops", "security", "networking"
+    ],
+    "description": "Bridges development and operations to enable rapid, reliable software delivery.",
+    "avg_salary": "₹10-25 LPA"
+  },
+  "Cybersecurity Analyst": {
+    "required": [
+      "network security", "penetration testing", "vulnerability assessment",
+      "siem", "incident response", "linux", "python", "owasp", "firewall"
+    ],
+    "preferred": [
+      "metasploit", "burp suite", "wireshark", "kali linux", "cissp", "ceh",
+      "cloud security", "digital forensics", "threat intelligence", "zero trust"
+    ],
+    "description": "Protects systems and networks from cyber threats and attacks.",
+    "avg_salary": "₹8-22 LPA"
+  },
+  "Android Developer": {
+    "required": [
+      "kotlin", "java", "android", "android studio", "jetpack compose",
+      "mvvm", "room", "retrofit", "coroutines", "git"
+    ],
+    "preferred": [
+      "firebase", "dagger", "hilt", "rxjava", "material design",
+      "unit testing", "ci/cd", "google play", "gradle", "ble"
+    ],
+    "description": "Creates native Android mobile applications.",
+    "avg_salary": "₹6-18 LPA"
+  }
+}

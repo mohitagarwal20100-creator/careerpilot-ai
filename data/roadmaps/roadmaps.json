@@ -1,0 +1,136 @@
+{
+  "Data Scientist": {
+    "beginner": {
+      "title": "Foundation Phase (0-3 months)",
+      "steps": [
+        {"skill": "Python Basics", "resources": ["Python.org tutorial", "Automate the Boring Stuff"], "time": "3 weeks"},
+        {"skill": "Statistics & Probability", "resources": ["Khan Academy Statistics", "StatQuest YouTube"], "time": "3 weeks"},
+        {"skill": "Pandas & NumPy", "resources": ["Pandas docs", "NumPy quickstart"], "time": "2 weeks"},
+        {"skill": "Data Visualization (Matplotlib/Seaborn)", "resources": ["Matplotlib gallery", "Seaborn tutorial"], "time": "1 week"},
+        {"skill": "SQL Fundamentals", "resources": ["SQLZoo", "Mode Analytics SQL Tutorial"], "time": "2 weeks"},
+        {"skill": "Jupyter Notebooks", "resources": ["Jupyter docs", "Kaggle notebooks"], "time": "1 week"}
+      ]
+    },
+    "intermediate": {
+      "title": "Core ML Phase (3-6 months)",
+      "steps": [
+        {"skill": "Scikit-learn & ML Algorithms", "resources": ["Scikit-learn user guide", "Hands-On ML book"], "time": "4 weeks"},
+        {"skill": "Feature Engineering", "resources": ["Kaggle feature engineering course", "MLmastery blog"], "time": "2 weeks"},
+        {"skill": "Model Evaluation & Validation", "resources": ["Scikit-learn metrics docs", "Cross-validation guide"], "time": "2 weeks"},
+        {"skill": "EDA & Storytelling", "resources": ["Kaggle EDA notebooks", "Towards Data Science"], "time": "2 weeks"},
+        {"skill": "Git & Version Control", "resources": ["Pro Git book", "GitHub Learning Lab"], "time": "1 week"},
+        {"skill": "First Kaggle Competition", "resources": ["Kaggle.com", "Kaggle Learn"], "time": "3 weeks"}
+      ]
+    },
+    "advanced": {
+      "title": "Production Phase (6-12 months)",
+      "steps": [
+        {"skill": "Deep Learning (PyTorch/TensorFlow)", "resources": ["Fast.ai course", "PyTorch tutorials"], "time": "6 weeks"},
+        {"skill": "NLP & Computer Vision", "resources": ["HuggingFace course", "CS231n Stanford"], "time": "4 weeks"},
+        {"skill": "MLOps & Model Deployment", "resources": ["Full Stack Deep Learning", "MLflow docs"], "time": "3 weeks"},
+        {"skill": "Cloud Platforms (AWS/GCP)", "resources": ["AWS ML Specialty", "GCP ML docs"], "time": "3 weeks"},
+        {"skill": "Big Data (Spark)", "resources": ["Spark documentation", "Databricks Academy"], "time": "2 weeks"},
+        {"skill": "Portfolio Projects & Blogging", "resources": ["Medium/Towards Data Science", "GitHub portfolio tips"], "time": "ongoing"}
+      ]
+    }
+  },
+  "Web Developer": {
+    "beginner": {
+      "title": "Foundation Phase (0-3 months)",
+      "steps": [
+        {"skill": "HTML5 Semantics", "resources": ["MDN Web Docs HTML", "freeCodeCamp HTML"], "time": "2 weeks"},
+        {"skill": "CSS3 & Flexbox/Grid", "resources": ["CSS Tricks", "freeCodeCamp CSS"], "time": "3 weeks"},
+        {"skill": "JavaScript Fundamentals", "resources": ["JavaScript.info", "Eloquent JavaScript"], "time": "4 weeks"},
+        {"skill": "Git & GitHub", "resources": ["Pro Git book", "GitHub Hello World"], "time": "1 week"},
+        {"skill": "Responsive Design", "resources": ["MDN Responsive Design", "Bootstrap docs"], "time": "2 weeks"}
+      ]
+    },
+    "intermediate": {
+      "title": "Framework Phase (3-6 months)",
+      "steps": [
+        {"skill": "React.js", "resources": ["React official docs", "Full Stack Open"], "time": "5 weeks"},
+        {"skill": "Node.js & Express", "resources": ["Node.js docs", "The Odin Project"], "time": "4 weeks"},
+        {"skill": "REST APIs & HTTP", "resources": ["REST API Design guide", "Postman learning center"], "time": "2 weeks"},
+        {"skill": "SQL + MongoDB", "resources": ["PostgreSQL tutorial", "MongoDB University"], "time": "3 weeks"},
+        {"skill": "TypeScript", "resources": ["TypeScript handbook", "Matt Pocock tutorials"], "time": "2 weeks"}
+      ]
+    },
+    "advanced": {
+      "title": "Production Phase (6-12 months)",
+      "steps": [
+        {"skill": "Next.js & SSR", "resources": ["Next.js docs", "Lee Robinson's blog"], "time": "3 weeks"},
+        {"skill": "Testing (Jest, Cypress)", "resources": ["Testing Library docs", "Cypress guides"], "time": "2 weeks"},
+        {"skill": "Docker & CI/CD", "resources": ["Docker docs", "GitHub Actions docs"], "time": "3 weeks"},
+        {"skill": "Performance & Web Vitals", "resources": ["web.dev", "Chrome DevTools"], "time": "2 weeks"},
+        {"skill": "Cloud Deployment (Vercel/AWS)", "resources": ["Vercel docs", "AWS Amplify"], "time": "2 weeks"},
+        {"skill": "System Design Basics", "resources": ["Grokking System Design", "ByteByteGo"], "time": "4 weeks"}
+      ]
+    }
+  },
+  "DevOps Engineer": {
+    "beginner": {
+      "title": "Foundation Phase (0-3 months)",
+      "steps": [
+        {"skill": "Linux Fundamentals", "resources": ["Linux Journey", "The Linux Command Line book"], "time": "3 weeks"},
+        {"skill": "Bash Scripting", "resources": ["Bash scripting tutorial", "ShellCheck tool"], "time": "2 weeks"},
+        {"skill": "Git & GitHub", "resources": ["Pro Git book", "GitHub Skills"], "time": "1 week"},
+        {"skill": "Networking Basics", "resources": ["Networking fundamentals Cisco", "Professor Messer"], "time": "2 weeks"},
+        {"skill": "Docker", "resources": ["Docker official docs", "Play with Docker"], "time": "3 weeks"}
+      ]
+    },
+    "intermediate": {
+      "title": "Automation Phase (3-6 months)",
+      "steps": [
+        {"skill": "Kubernetes", "resources": ["Kubernetes.io docs", "KodeKloud"], "time": "5 weeks"},
+        {"skill": "CI/CD (GitHub Actions/Jenkins)", "resources": ["GitHub Actions docs", "Jenkins docs"], "time": "3 weeks"},
+        {"skill": "Infrastructure as Code (Terraform)", "resources": ["Terraform docs", "HashiCorp Learn"], "time": "3 weeks"},
+        {"skill": "AWS Core Services", "resources": ["AWS Free Tier", "A Cloud Guru"], "time": "4 weeks"},
+        {"skill": "Ansible", "resources": ["Ansible docs", "Red Hat training"], "time": "2 weeks"}
+      ]
+    },
+    "advanced": {
+      "title": "SRE Phase (6-12 months)",
+      "steps": [
+        {"skill": "Monitoring (Prometheus + Grafana)", "resources": ["Prometheus docs", "Grafana labs"], "time": "3 weeks"},
+        {"skill": "Service Mesh (Istio)", "resources": ["Istio docs", "Solo.io academy"], "time": "2 weeks"},
+        {"skill": "Security & Compliance", "resources": ["CIS Benchmarks", "OWASP DevSecOps"], "time": "2 weeks"},
+        {"skill": "GitOps (ArgoCD/Flux)", "resources": ["ArgoCD docs", "OpenGitOps"], "time": "2 weeks"},
+        {"skill": "SRE Principles", "resources": ["Google SRE book", "SREcon talks"], "time": "3 weeks"},
+        {"skill": "Multi-cloud Architecture", "resources": ["Cloud Guru", "AWS + GCP together"], "time": "3 weeks"}
+      ]
+    }
+  },
+  "ML Engineer": {
+    "beginner": {
+      "title": "Foundation Phase (0-3 months)",
+      "steps": [
+        {"skill": "Python & OOP", "resources": ["Python.org", "Real Python"], "time": "3 weeks"},
+        {"skill": "ML Fundamentals", "resources": ["Andrew Ng Coursera", "StatQuest"], "time": "4 weeks"},
+        {"skill": "Scikit-learn", "resources": ["Scikit-learn user guide", "Kaggle Learn"], "time": "2 weeks"},
+        {"skill": "SQL & Data Pipelines", "resources": ["SQLZoo", "Mode Analytics"], "time": "2 weeks"},
+        {"skill": "Git & GitHub", "resources": ["Pro Git", "GitHub Skills"], "time": "1 week"}
+      ]
+    },
+    "intermediate": {
+      "title": "Engineering Phase (3-6 months)",
+      "steps": [
+        {"skill": "PyTorch / TensorFlow", "resources": ["PyTorch tutorials", "Fast.ai"], "time": "5 weeks"},
+        {"skill": "MLflow & Experiment Tracking", "resources": ["MLflow docs", "DagsHub"], "time": "2 weeks"},
+        {"skill": "Docker & Containerization", "resources": ["Docker docs", "Play with Docker"], "time": "2 weeks"},
+        {"skill": "REST API with FastAPI", "resources": ["FastAPI docs", "TestDriven.io"], "time": "2 weeks"},
+        {"skill": "Feature Stores", "resources": ["Feast docs", "Tecton blog"], "time": "2 weeks"}
+      ]
+    },
+    "advanced": {
+      "title": "Production Phase (6-12 months)",
+      "steps": [
+        {"skill": "Kubernetes for ML", "resources": ["Kubeflow docs", "Seldon Core"], "time": "3 weeks"},
+        {"skill": "Model Serving (Triton/TorchServe)", "resources": ["Triton docs", "TorchServe docs"], "time": "2 weeks"},
+        {"skill": "Data Drift & Monitoring", "resources": ["Evidently AI", "WhyLabs"], "time": "2 weeks"},
+        {"skill": "Distributed Training", "resources": ["PyTorch DDP", "DeepSpeed"], "time": "3 weeks"},
+        {"skill": "Cloud ML Platforms", "resources": ["AWS SageMaker", "Vertex AI"], "time": "3 weeks"},
+        {"skill": "System Design for ML", "resources": ["Designing ML Systems book", "Made With ML"], "time": "4 weeks"}
+      ]
+    }
+  }
+}
